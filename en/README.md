@@ -30,7 +30,7 @@ the.
 #### [When not to use?](http://www.englishteachermelanie.com/grammar-when-not-to-use-the-definite-article/)
 
 ##### Non-count nouns
-Music, fire,
+Music, fire, meat, chocolate.
 
 ##### Names
 Canada,	Facebook, Christmas, valentine's day,  Main Street, school, work.
