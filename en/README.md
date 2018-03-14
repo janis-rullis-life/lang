@@ -3,7 +3,26 @@
 ## [Articles](https://www.grammarly.com/blog/articles/)
 
 ### Indefinite
-a, an.
+
+Depends on the SOUND at the beginning of the new word.
+
+![A and AN](https://i.pinimg.com/originals/cc/63/90/cc6390006bba36243b66336a39b5015b.jpg)
+
+#### a - starts with a consonant sound.
+
+a **h**ouse, a **c**at.
+
+a **u**niversity (u => YOUniversity).
+
+a **c**old day.
+
+#### an - starts with a vowel sound.
+
+an **a**pple.
+
+an h**o**ur (h is silent => OUR).
+
+an **e**asy lession.
 
 ### Definite
 the.
